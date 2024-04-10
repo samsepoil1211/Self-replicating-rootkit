@@ -1,5 +1,5 @@
 # Self-replicating-rootkit
-A self-replicating rootkit virus is a highly sophisticated and insidious type of malware designed to infiltrate computer systems.
+A self-replicating rootkit virus is a highly sophisticated and insidious type of malware designed to infiltrate computer systems written in python.
 
 
 # Do's :-
