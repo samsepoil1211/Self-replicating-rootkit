@@ -10,7 +10,7 @@ A self-replicating rootkit virus is a highly sophisticated and insidious type of
   ## Warning ##
   <b>Don't use it for any illegal purposes.</b>
 
-  <b>Any issue contact samsepoil211@proton.me</b>
+  <b>Any issue contact rootkit1211@proton.me</b>
 
  Use it at your own risk, as the developer is not responsible for any consiquences or the harm caused by the malware.
 
