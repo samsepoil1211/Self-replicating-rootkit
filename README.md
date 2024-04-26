@@ -12,7 +12,7 @@ A self-replicating rootkit virus is a highly sophisticated and insidious type of
 
   <b>Any issue contact samsepoil211@proton.me</b>
 
-  // Use it at your own risk, as the developer is not responsible for any consiquences or the harm caused by the malware.
+ Use it at your own risk, as the developer is not responsible for any consiquences or the harm caused by the malware.
 
   # Spreading Malware is a offensible cybercrime and I don't encourage it. Doing so you are breaking law and doing a offensive crime
   Any issue contact me on this personal mail <samsepoil1211@tutamail.com>
